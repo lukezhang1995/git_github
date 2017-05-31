@@ -63,6 +63,17 @@
         },
         {
             "id": "3",
+            "title": "星球大战 40 年：在致敬中传承",
+            "type": "AUDIO",
+            "poster": "https://gss3.bdstatic.com/84oSdTum2Q5BphGlnYG/timg?wapp&quality=80&size=b150_150&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=b9663059355ab11b1a79df5486b4c555&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2Fd1a20cf431adcbef73a52c1eabaf2edda3cc9f10.jpg",
+            "icon": "",
+            "summary": "星球大战 40 年",
+            "linkRef": "https://pubstatic.sdao.cc/audio/mp3/Audio%20Machine%20-%20Breath%20and%20Life.mp3",
+            "tags": [],
+            "publishTimeUtc": "2017-04-24"
+        },
+        {
+            "id": "4",
             "title": "世界不属于互联网公司，而是属于用好互联网的那些公司",
             "type": "ARTICLE",
             "cover": "https://pubstatic.sdao.cc/cms/taple/cover/201704/26102654/jackma-1.jpg",
@@ -74,7 +85,7 @@
             "publishTimeUtc": "2017-04-26"
         },
         {
-            "id": "4",
+            "id": "5",
             "title": "京东物流宣布独立，承诺五年收入过千亿，不排除独立上市",
             "type": "ARTICLE",
             "cover": "https://pubstatic.sdao.cc/cms/taple/cover/201704/26101159/liuqinagdong-1.jpg",
@@ -86,7 +97,18 @@
             "publishTimeUtc": "2017-04-26"
         },
         {
-            "id": "5",
+            "id": "6",
+            "title": "手机怎样拍出「背景虚化」的照片？| 有轻功 046",
+            "type": "VIDEO",
+            "cover": "https://pubstatic.sdao.cc/cms/taple/cover/201704/24192701/SF_SutroBaths-4[00_00_02][20170424-192556-0].PNG",
+            "icon": "",
+            "summary": "在很多人看来，手机摄像头相较单反的最大弱点是没办法拍出「前实后虚」的浅景深效果。其实，只要将手机镜头靠近被摄物再近一点，就能达到类似单反的虚化效果。\n下图就是我用 iPhone 6 Plus 拍摄的，在晚上、背景中有灯光的情况下，虚化的效果会更为明显。",
+            "linkRef": "https://pubstatic.sdao.cc/video/mp4/SF_SutroBaths-4K_nimia_573584_1080_HD_ZH-CN.mp4",
+            "tags": [],
+            "publishTimeUtc": "2017-04-24T11:28:53.346769"
+        },
+        {
+            "id": "7",
             "title": "Windows 10 全新设计界面确定亮相 Bulid 2017，今年秋季能够用上",
             "type": "ARTICLE",
             "cover": "https://pubstatic.sdao.cc/cms/taple/cover/201704/24173005/Screenshot_2017_02_11_10_34_56.jpg",
@@ -94,29 +116,6 @@
             "summary": "随着 5 月份的临近，微软也开始为今年最为重要的开发者大会Bulid 2017预热。",
             "author": "爱范儿",
             "content": "就在近日，微软对外公布了今年 Build 大会与开发者相关的几个重点：更加漂亮的 UI 和更加自然的输入方式，以帮助开发者与用户更好地互动。团队协作和连接，以增强开发者的开发体验可以帮助开发者接触消费者并了解其软件需求的新服务。跨屏互动体验，让端到端的体验更具粘性和参与度。混合现实（MR）和深度沉浸式体验。可以看出，今年的 Build 开发者大会与去年相比，有着很强的继承性。这首先体现在，微软正在继续对 Windows 10 平台进行提升和改进，包括 UI 设计和输入方式的变化。其中，关于输入方式，爱范儿（微信 ID：ifanr）认为随着语音交互技术和触控技术的发展，未来 Windows 10 操作系统会越来越依赖于 Cortana 语音助手和触控操作。",
-            "tags": [],
-            "publishTimeUtc": "2017-04-24"
-        },
-        {
-            "id": "6",
-            "title": "对不起，您的 kindle 已自动关机",
-            "type": "ARTICLE",
-            "cover": "https://pubstatic.sdao.cc/cms/taple/cover/201704/24172634/pexels-photo-12627 (1).jpeg",
-            "icon": "",
-            "summary": "闲逛知乎，看完各种推荐物品的帖子之后，你发现：原来当代中产阶级的精神入门生活，就是一部 kindle。",
-            "author": "爱范儿",
-            "content": "闲逛知乎，看完各种推荐物品的帖子之后，你发现：原来当代中产阶级的精神入门生活，就是一部 kindle。有了它，你会开始勤奋读书，随时随地读书，不断提高知识水平，成为一个站在人生礁石上迎风呐喊的成功者。然后，你看各种问答、逛论坛、查官网，挑选出一部 kindle paperwhite 3，托日本的朋友代购回来。这个套路，依稀好像：到处打听哪个神明比较灵验，然后兴冲冲地买了香火入庙拜神一样。",
-            "tags": [],
-            "publishTimeUtc": "2017-04-24"
-        },
-        {
-            "id": "7",
-            "title": "星球大战 40 年",
-            "type": "AUDIO",
-            "poster": "https://gss3.bdstatic.com/84oSdTum2Q5BphGlnYG/timg?wapp&quality=80&size=b150_150&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=b9663059355ab11b1a79df5486b4c555&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2Fd1a20cf431adcbef73a52c1eabaf2edda3cc9f10.jpg",
-            "icon": "",
-            "summary": "星球大战 40 年",
-            "linkRef": "https://pubstatic.sdao.cc/audio/mp3/Audio%20Machine%20-%20Breath%20and%20Life.mp3",
             "tags": [],
             "publishTimeUtc": "2017-04-24"
         },
@@ -134,14 +133,16 @@
         },
         {
             "id": "9",
-            "title": "手机怎样拍出「背景虚化」的照片？| 有轻功 046",
-            "type": "VIDEO",
-            "cover": "https://pubstatic.sdao.cc/cms/taple/cover/201704/24192701/SF_SutroBaths-4[00_00_02][20170424-192556-0].PNG",
+            "title": "对不起，您的 kindle 已自动关机",
+            "type": "ARTICLE",
+            "cover": "https://pubstatic.sdao.cc/cms/taple/cover/201704/24172634/pexels-photo-12627 (1).jpeg",
             "icon": "",
-            "summary": "在很多人看来，手机摄像头相较单反的最大弱点是没办法拍出「前实后虚」的浅景深效果。其实，只要将手机镜头靠近被摄物再近一点，就能达到类似单反的虚化效果。\n下图就是我用 iPhone 6 Plus 拍摄的，在晚上、背景中有灯光的情况下，虚化的效果会更为明显。",
-            "linkRef": "https://pubstatic.sdao.cc/video/mp4/SF_SutroBaths-4K_nimia_573584_1080_HD_ZH-CN.mp4",
+            "summary": "闲逛知乎，看完各种推荐物品的帖子之后，你发现：原来当代中产阶级的精神入门生活，就是一部 kindle。",
+            "author": "爱范儿",
+            "content": "闲逛知乎，看完各种推荐物品的帖子之后，你发现：原来当代中产阶级的精神入门生活，就是一部 kindle。有了它，你会开始勤奋读书，随时随地读书，不断提高知识水平，成为一个站在人生礁石上迎风呐喊的成功者。然后，你看各种问答、逛论坛、查官网，挑选出一部 kindle paperwhite 3，托日本的朋友代购回来。这个套路，依稀好像：到处打听哪个神明比较灵验，然后兴冲冲地买了香火入庙拜神一样。",
             "tags": [],
-            "publishTimeUtc": "2017-04-24T11:28:53.346769"
+            "publishTimeUtc": "2017-04-24"
         }
+        
     ]
 }
